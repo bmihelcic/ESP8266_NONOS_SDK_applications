@@ -2,6 +2,11 @@
 # Simple ESP8266 based smart switch
 
 Intention for this project was to automate christmas lights. With this switch the lights would turn on at 17:00:00 and turn off at 3:00:00. ESP8266 requires internet connection in order to connect and fetch time data from closest ntp server.
+
+## !!! WARNING - HIGH VOLTAGE !!!
+
+Replicate this project at your own risk. If you don't have experience working with high voltages it's better to not do it.
+
 ![](images/20220104_200308.jpg)
 
 # Hardware setup
